@@ -23,7 +23,6 @@ com\shoppingcart\utility\JavaMailUtil.class
 com\shoppingcart\srv\LoginSrv.class
 com\shoppingcart\service\impl\TransServiceImpl.class
 com\shoippingcart\service\UserService.class
-com\shoppingcart\utility\JavaMailUtil$2.class
 com\shoppingcart\beans\ProductBean.class
 com\shoppingcart\beans\OrderDetails.class
 com\shoppingcart\srv\OrderServlet.class
@@ -37,3 +36,4 @@ com\shoppingcart\constants\IUserConstants.class
 com\shoppingcart\service\impl\DemandServiceImpl.class
 com\shoppingcart\service\impl\ProductServiceImpl.class
 com\shoppingcart\srv\LogoutSrv.class
+com\shoppingcart\srv\OtpSrv.class

@@ -83,7 +83,7 @@
 							<option value="mobile"
 								<%="mobile".equalsIgnoreCase(ptype) ? "selected" : ""%>>MOBILE</option>
 							<option value="tv"
-								<%="tv".equalsIgnoreCase(ptype) ? "selected" : ""%>>TV</option>
+								<%="tv".equalsIgnoreCase(ptype) ? "selected" : ""%>>Monitors</option>
 							<option value="camera"
 								<%="camera".equalsIgnoreCase(ptype) ? "selected" : ""%>>CAMERA</option>
 							<option value="laptop"

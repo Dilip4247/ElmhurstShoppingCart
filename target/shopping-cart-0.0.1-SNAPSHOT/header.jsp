@@ -67,7 +67,7 @@
 					</a>
 						<ul class="dropdown-menu">
 							<li><a href="index.jsp?type=mobile">Mobiles</a></li>
-							<li><a href="index.jsp?type=tv">TVs</a></li>
+							<li><a href="index.jsp?type=tv">Monitors</a></li>
 							<li><a href="index.jsp?type=laptop">Laptops</a></li>
 							<li><a href="index.jsp?type=camera">Camera</a></li>
 							<li><a href="index.jsp?type=speaker">Speakers</a></li>
@@ -158,7 +158,7 @@
 					</a>
 						<ul class="dropdown-menu">
 							<li><a href="adminViewProduct.jsp?type=mobile">Mobiles</a></li>
-							<li><a href="adminViewProduct.jsp?type=tv">Tvs</a></li>
+							<li><a href="adminViewProduct.jsp?type=tv">Monitors</a></li>
 							<li><a href="adminViewProduct.jsp?type=laptop">Laptops</a></li>
 							<li><a href="adminViewProduct.jsp?type=camera">Camera</a></li>
 							<li><a href="adminViewProduct.jsp?type=speaker">Speakers</a></li>

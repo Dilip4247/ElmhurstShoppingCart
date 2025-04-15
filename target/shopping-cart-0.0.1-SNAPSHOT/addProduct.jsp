@@ -68,7 +68,7 @@
 						<label for="producttype">Product Type</label> <select name="type"
 							id="producttype" class="form-control" required>
 							<option value="mobile">MOBILE</option>
-							<option value="tv">TV</option>
+							<option value="tv">Monitors</option>
 							<option value="camera">CAMERA</option>
 							<option value="laptop">LAPTOP</option>
 							<option value="tablet">TABLET</option>
